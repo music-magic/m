@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Music Magic</title>
-    <link>https://music-magic.github.io/music.github.io/</link>
+    <link>https://music-magic.github.io/m/</link>
     <description>Recent content on Music Magic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://music-magic.github.io/music.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://music-magic.github.io/m/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

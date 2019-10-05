@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://music-magic.github.io/music.github.io/categories/</loc>
+    <loc>https://music-magic.github.io/m/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://music-magic.github.io/music.github.io/</loc>
+    <loc>https://music-magic.github.io/m/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://music-magic.github.io/music.github.io/tags/</loc>
+    <loc>https://music-magic.github.io/m/tags/</loc>
     <priority>0</priority>
   </url>
   
